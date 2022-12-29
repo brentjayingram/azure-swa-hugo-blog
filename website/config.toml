@@ -1,4 +1,4 @@
-baseURL ='https://brentjayingram.dev/'
+baseURL = 'https://brentjayingram.dev/'
 languageCode = 'en-us'
 title = 'Brent Jay Ingram'
 theme = 'ananke'
