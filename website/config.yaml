@@ -1,0 +1,78 @@
+baseURL: brentjayingram.dev
+languageCode: en-us
+title: Brent Jay Ingram
+theme: paige
+baseurl: 'https://example.com'
+copyright: © Brent Ingram
+enablerobotstxt: true
+languagecode: en-us
+paginate: 50
+timezone: America/Los_Angeles
+titlecasestyle: Go
+languages:
+  en:
+    title: 'Plan, Develop, Execute'
+    weight: 10
+    menu:
+      main:
+        - identifier: home
+          name: Home
+          url: /
+          weight: 10
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 20
+        - identifier: blog
+          name: Blog
+          url: /blog/
+          weight: 30
+        - identifier: categories
+          name: Categories
+          url: /categories/
+          weight: 40
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 50
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 60
+params:
+  paige:
+    stretch: "stretch.jpg"
+    social:
+      email:
+        icon: envelope
+        link: 'mailto:username@example.com'
+        name: E-mail
+      github:
+        icon: github
+        link: 'https://github.com/username'
+        name: GitHub
+      linkedin:
+        icon: linkedin
+        link: 'https://linkedin.com/in/username'
+        name: LinkedIn
+      instagram:
+        icon: instagram
+        link: 'https://instagram.com/username'
+        name: Instagram
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: vs
+  tableofcontents:
+    endlevel: 6
+    ordered: true
+    startlevel: 2
+outputs:
+  home:
+    - html
+    - json
+    - rss
+permalinks:
+  blog: '/blog/:year/:month/:day/:title/'
