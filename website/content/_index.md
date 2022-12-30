@@ -3,7 +3,7 @@ blurb: Hi I'm Brent Ingram. I'm an experienced IT Cloud Engineer, Azure Admin, a
 
 description: That's how I get things done!
 # greeting: You know [best](https://www.youtube.com/watch?v=1WDW8XKEGgU)
-stretch: stretch.jpg
+stretch: stretch.webp
 title: Plan, Develop, and Execute
 ---
 
