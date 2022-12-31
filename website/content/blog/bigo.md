@@ -2,7 +2,20 @@
 title: "What is big O notation"
 date: 2021-04-20T20:19:33-08:00
 draft: false
+author: Brent Ingram
+tags: [bigo, algorithm]
+categories: [programming]
 ---
+
+<!-- +++
+author = "Hugo Authors"
+title = "Rich Content"
+description = "A brief description of Hugo Shortcodes."
+tags = [
+    "shortcodes",
+    "privacy",
+]
++++ -->
 
 This year I decided to take my programming to a new level. And I'll be blogging about what I'm learning.
 
