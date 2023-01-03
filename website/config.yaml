@@ -40,15 +40,15 @@ params:
         name: E-mail
       github:
         icon: github
-        link: 'https://github.com/username'
+        link: 'https://github.com/brentjayingram'
         name: GitHub
       linkedin:
         icon: linkedin
-        link: 'https://linkedin.com/in/username'
+        link: 'https://linkedin.com/in/brentjayingram'
         name: LinkedIn
       instagram:
         icon: instagram
-        link: 'https://instagram.com/username'
+        link: 'https://instagram.com/brentjayingramcodes'
         name: Instagram
 markup:
   goldmark:
