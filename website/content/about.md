@@ -8,4 +8,4 @@ I developed a lot of my skills while I worked for an MSP in LA (Velonex), and be
 
 I also work as a web developer creating websites and applications for small businesses and I leverage a lot of cloud principles to give their websites great up time and keep them secure.
 
-I'm also a marathon runner (I've ran multiple 26.2 marathons and one ultramarathon (56 miles!) in South Africa.
+I am also a marathon runner (I've ran multiple 26.2 marathons and one ultramarathon (56 miles!) in South Africa.
