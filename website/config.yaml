@@ -36,7 +36,7 @@ params:
     social:
       email:
         icon: envelope
-        link: 'mailto:username@example.com'
+        link: 'mailto:brent@brentjayingram.com'
         name: E-mail
       github:
         icon: github
